@@ -1,9 +1,0 @@
-Agent: Hello, thank you for calling Acme Corp support. How can I assist you today?
-Customer: Hi, I received my order yesterday but one of the items is missing.
-Agent: I’m sorry to hear that. Can you please provide your order number so I can check?
-Customer: Yes, it’s 123456.
-Agent: Thank you. I see your order here. It looks like the missing item is out of stock currently. I can issue a refund or send a replacement when available. What would you prefer?
-Customer: I’d prefer a replacement when it’s back in stock.
-Agent: Absolutely, I will note that on your order. Is there anything else I can help you with today?
-Customer: No, that’s all. Thanks.
-Agent: You’re welcome! Have a great day.
