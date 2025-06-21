@@ -1,0 +1,39 @@
+====================
+✅ Call Analysis Summary
+====================
+📊 Sentiment: 1 star (Confidence: 0.59)
+
+📝 Recommendations and Analysis:
+
+<|system|>
+You are an expert call center script analyst. 
+<|user|>
+Analyze the following customer service call transcript.
+
+Transcript:
+Agent: Hello, thank you for calling Acme Corp support. How can I assist you today?
+Customer: Hi, I received my order yesterday but one of the items is missing.
+Agent: I’m sorry to hear that. Can you please provide your order number so I can check?
+Customer: Yes, it’s 123456.
+Agent: Thank you. I see your order here. It looks like the missing item is out of stock currently. I can issue a refund or send a replacement when available. What would you prefer?
+Customer: I’d prefer a replacement when it’s back in stock.
+Agent: Absolutely, I will note that on your order. Is there anything else I can help you with today?
+Customer: No, that’s all. Thanks.
+Agent: You’re welcome! Have a great day.
+
+
+Answer the following:
+1. Is this a good or bad call? Why?
+2. What worked well?
+3. What went wrong?
+4. Provide 3 clear recommendations to improve the script. 
+<|assistant|>
+Yes, this is a good call. The agent did a good job in assisting the customer and resolving the issue. One thing that worked well was the agent's warm and friendly demeanor, which helped the customer feel comfortable and valued. The agent's prompt and clear responses to the customer's questions and concerns were also efficient and effective.
+
+To improve the script, here are three clear recommendations:
+
+1. Include the customer's order number in the conversation, as it helps the agent quickly identify the issue and provide the appropriate resolution.
+2. Explain the availability of the missing item when issuing a refund or sending a replacement. This helps the customer understand the situation and their options.
+3. Ask for the customer's feedback on the overall experience, which will help the agent improve the script for future calls.
+
+Overall, the call was well executed and helped the customer feel valued and satisfactorily resolved.

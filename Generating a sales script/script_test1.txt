@@ -1,0 +1,18 @@
+Greeting:
+Agent: Hello! This is Sarah from TechStore. How can I assist you today?
+Customer: Hi Sarah, I’m interested in buying a new laptop.
+
+Needs Discovery:
+Agent: Great! Could you tell me what you mainly use your laptop for—work, gaming, or general use?
+Customer: Mostly work and some light gaming.
+Agent: Got it. And do you have any brand preferences or specs in mind?
+
+Suggestion/Pitch:
+Agent: Based on that, I recommend the XPro 15 — it has a powerful processor for multitasking and a dedicated GPU for gaming. Plus, it’s lightweight for travel. We currently have a 10% discount on it this week.
+Customer: Sounds good. What about battery life?
+Agent: It lasts up to 12 hours on a single charge, perfect for long workdays.
+
+Closing:
+Agent: Would you like me to reserve one for you today with free shipping included?
+Customer: Yes, please!
+Agent: Fantastic! I’ll set that up and send you a confirmation email shortly.

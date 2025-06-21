@@ -1,0 +1,18 @@
+Example Script 3: Health & Wellness Coaching Intro Call
+Greeting:
+Coach: Hi Emma, I’m Lisa, your health coach. How are you feeling today?
+Client: Hi Lisa, I’m okay, thanks.
+
+Needs Discovery:
+Coach: Great! What are your main wellness goals, and what challenges have you faced?
+Client: I want to lose weight but struggle with sticking to a routine.
+Coach: Thanks for sharing. How many days a week can you commit to working on your health?
+
+Suggestion/Pitch:
+Coach: I offer personalized plans and weekly check-ins to keep you motivated. Clients often find the accountability really helps sustain progress. We also provide meal plans tailored to your preferences.
+Client: That sounds helpful.
+
+Closing:
+Coach: Would you like to get started with a free consultation session next week?
+Client: Yes, please!
+Coach: Wonderful! I’ll send you the calendar invite.

@@ -1,0 +1,17 @@
+Greeting:
+Agent: Hi John, this is Mike from CloudSync. How have you been enjoying your subscription so far?
+Customer: It’s been good, thanks.
+
+Needs Discovery:
+Agent: That’s great to hear. Are there any features you feel are missing or anything that would improve your experience?
+Customer: I wish it had better collaboration tools.
+Agent: Understood. How many team members would need access?
+
+Suggestion/Pitch:
+Agent: Our Pro plan includes enhanced collaboration features like real-time editing and team analytics. Many clients have seen productivity improve by 30% after upgrading. Plus, there’s a free 30-day trial if you want to test it risk-free.
+Customer: Sounds promising.
+
+Closing:
+Agent: Should I upgrade your account now so you can start the trial?
+Customer: Yes, let’s do that.
+Agent: Perfect! You’ll receive an email with all the details shortly.
